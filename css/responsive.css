@@ -110,12 +110,38 @@
   }
 
 }
+@media (max-width: 412px) {
+  .link {
+    left: 77px;
+    top: 162px;
+  }
+
+  .logo h2 {
+    font-size: 1.5rem;
+  }
+
+  .col2 h2,
+  .col4 h2,
+  .col6 h2,
+  .col8 h2,
+  .col11 h2 {
+    font-size: 2.6rem;
+  }
+
+  .bottom p {
+    font-size: 0.9rem;
+  }
+  .name label input {
+    width: 358px;
+  }
+
+}
 
 
 @media (max-width: 360px) {
 
   .link {
-    left: 60px;
+    left: 65px;
     top: 159px;
   }
 
@@ -124,11 +150,11 @@
   }
 
   .col1 {
-    height: 700px;
+    height: 645px;
   }
 
   .logo {
-    height: 630px;
+    height: 565px;
   }
 
   .col2 h2,
@@ -141,7 +167,7 @@
   }
 
   .name label input {
-    width: 235px;
+    width: 315px;
   }
 
   .name2 label {
@@ -200,7 +226,7 @@
 @media (max-width: 320px) {
 
   .link {
-    left: 126px;
+    left: 60px;
     top: 110px;
   }
 
@@ -239,7 +265,7 @@
   }
 
   .name label input {
-    width: 210px;
+    width: 268px;
   }
 
   .middle h2 {
@@ -265,5 +291,6 @@
 
 
 }  
+
 
 
