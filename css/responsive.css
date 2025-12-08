@@ -115,12 +115,12 @@
 @media (max-width: 360px) {
 
   .link {
-    left: 145px;
+    left: 60px;
     top: 159px;
   }
 
   .logo h2 {
-    font-size: 1.28rem;
+    font-size: 1.2rem;
   }
 
   .col1 {
@@ -265,4 +265,5 @@
 
 
 }  
+
 
