@@ -86,7 +86,7 @@
 @media (max-width: 480px) {
 
   .link {
-    left: 199px;
+    left: 70px;
     top: 149px;
   }
 
@@ -100,6 +100,13 @@
   .col8 h2,
   .col11 h2 {
     font-size: 3rem;
+  }
+  .name label input {
+    width: 418px;
+  }
+  .email p {
+     font-size: 1rem;
+
   }
 
 }
@@ -258,27 +265,4 @@
 
 
 }  
-@media (max-width: 412px) {
-  .link {
-    left: 77px;
-    top: 162px;
-  }
 
-  .logo h2 {
-    font-size: 1.5rem;
-  }
-
-  .col2 h2,
-  .col4 h2,
-  .col6 h2,
-  .col8 h2,
-  .col11 h2 {
-    font-size: 2.6rem;
-  }
-
-  .bottom p {
-    font-size: 0.9rem;
-  }
-
-
-}
